@@ -1,0 +1,23 @@
+[
+  {
+      "_id": "1",
+      "name": "John Doe",
+      "age": 25,
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id ligula eu felis ullamcorper tristique.",
+      "photo": "https://i.ibb.co/vvJpmQf/jpg-3.jpg"
+  },
+  {
+      "_id": "2",
+      "name": "Jane Smith",
+      "age": 30,
+      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "photo": "https://i.ibb.co/vmN6CV4/jpg-4.jpg"
+  },
+  {
+      "_id": "3",
+      "name": "Bob Johnson",
+      "age": 22,
+      "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "photo": "https://i.ibb.co/BsBwp7B/jpg-5.jpg"
+  }
+]
